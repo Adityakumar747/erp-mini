@@ -4,6 +4,7 @@ Production-oriented full-stack erp mini covering the complete inventory lifecycl
 **Inventory → Work Order → Stock Check → Internal Transfer / Shortage → Customer Reservation**
 
 ---
+[Live Demo](https://frontend-5fub.vercel.app/login)
 
 ## Tech Stack
 
